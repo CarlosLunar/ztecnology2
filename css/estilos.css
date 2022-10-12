@@ -93,8 +93,7 @@ html {
 
 #inicio .contenido .presentacion .bienvenida {
 	font-size: 30px;
-	color: #FFF;
-	margin-bottom: 10px;
+	color: rgb(247, 13, 13);
 	text-transform: uppercase;
 	letter-spacing: 5px;
 }
