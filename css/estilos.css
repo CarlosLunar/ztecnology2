@@ -93,7 +93,7 @@ html {
 
 #inicio .contenido .presentacion .bienvenida {
 	font-size: 30px;
-	color: rgb(247, 13, 13);
+	color: #fff;
 	text-transform: uppercase;
 	letter-spacing: 5px;
 }
@@ -147,6 +147,8 @@ html {
 #sobremi .contenedor-foto {
 	max-width: 400px;
 	margin-right: 80px;
+	align-items: center;
+	justify-content: center;
 }
 
 #sobremi .contenedor-foto img {
@@ -198,7 +200,7 @@ html {
 
 #sobremi .sobremi .logo1 {
 	padding: 30px 90px;
-	
+			
 }
 
 #sobremi .sobremi a {
@@ -560,7 +562,7 @@ footer a {
 	}
 	nav.responsive {
 		display: block;
-		background-color: rgba(0, 0, 0, .8);
+		background-color: rgba(243, 10, 10, 0.8);
 		width: 100%;
 		position: absolute;
 		top: 48px;
@@ -591,6 +593,11 @@ footer a {
 	}
 
 	#sobremi .contenedor-foto {
+		align-items: center;
+		justify-content: center;
+	}
+
+	#sobremi .contenedor-foto {
 		max-width: 200px;
 		margin: auto;
 	}
@@ -608,6 +615,11 @@ footer a {
 		text-align: center;
 	}
 
+	#sobremi .sobremi .logo1 {
+		align-items: center;
+		justify-content: center;
+	}
+	
 	#servicios {
 		padding: 50px 15px;
 	}
