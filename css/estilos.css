@@ -64,7 +64,7 @@ html {
 }
 
 #inicio .contenido header .contenido-header .redes a {
-	width: 15%;
+	width: 5%;
 	text-decoration: none;
 	color: #fff;
 	display: inline-block;
@@ -204,7 +204,7 @@ html {
 }
 
 #sobremi .sobremi a {
-	display: inline-block;
+	display: flexbox;
 	text-decoration: none;
 	color: blue;
 	background: #ba9999;
@@ -213,6 +213,7 @@ html {
 	padding: 10px 20px;
 	border: 1px solid #000;
 	margin-top: 30px;
+	margin-left: 80px;
 	transition: .5s;
 	align-items: center;
 	justify-content: center;
