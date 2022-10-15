@@ -199,7 +199,7 @@ html {
 }
 
 #sobremi .sobremi .logo1 {
-	padding: 30px 90px;
+	padding: 30px 30px;
 			
 }
 
@@ -536,6 +536,8 @@ html {
 	background-color: #0678f2;
 	color: #e2edf9;
 }
+
+/* SECCION FOOTER */
 
 footer {
 	background-color: rgb(36, 74, 85);
