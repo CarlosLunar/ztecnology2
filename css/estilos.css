@@ -605,6 +605,7 @@ footer a {
 	#sobremi .contenedor-foto {
 		max-width: 200px;
 		margin: auto;
+		text-align: center;
 	}
 
 	#sobremi .contenedor-foto img {
