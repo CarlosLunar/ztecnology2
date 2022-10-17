@@ -590,6 +590,8 @@ footer a {
 		font-size: 30px;
 	}
 
+	/* SECCION SOBRE MI */
+
 	#sobremi {
 		padding: 100px 50;
 		display: block;
@@ -614,7 +616,7 @@ footer a {
 	}
 
 	#sobremi .sobremi h2 {
-		font-size: 20px;
+		font-size: 18px;
 		text-align: center;
 	}
 
@@ -635,9 +637,12 @@ footer a {
 		margin: 10px auto;
 	}
 
-	.contenedor-skills {
+	/*.contenedor-skills {
 		padding: 50px 20px;
 	}
+	*/
+
+	/* SECCION PORTAFOLIO */
 
 	#portafolio {
 		padding: 50px 0;
