@@ -668,5 +668,9 @@ footer a {
 		width: 100%;
 		margin-bottom: 15px;
 	}
+	footer {
+		display: grid;
+		place-items: center;
+	}
 }
 
